@@ -15,7 +15,7 @@ Dibuat oleh **King REDZ** untuk keperluan edukasi, eksperimen keamanan, dan surv
 - 📡 **Real-Target Exploitation** — Bukan simulasi, ini langsung live network
 - 🛡️ **Linux & Termux Friendly** — Dirancang bukan untuk Windows
 - 🧠 **Zero-Day Mode** — Persiapan saat dunia digital kolaps akibat konflik global
--tapi kebanyakan coming soon wlwlwl
+- tapi kebanyakan coming soon wlwlwl
 ---
 
 ## 🧪 Persiapan & Kebutuhan
