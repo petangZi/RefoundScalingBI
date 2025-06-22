@@ -1,0 +1,22 @@
+[
+  {
+    "dork": "inurl:index.php?id= site:go.id",
+    "status": "❌ Gagal"
+  },
+  {
+    "dork": "inurl:page=\"contact\" site:go.id",
+    "status": "✔️ Fetched"
+  },
+  {
+    "dork": "inurl:upload filetype:php site:go.id",
+    "status": "❌ Gagal"
+  },
+  {
+    "dork": "intitle:admin login site:go.id",
+    "status": "✔️ Fetched"
+  },
+  {
+    "dork": "inurl:view.php?id= site:go.id",
+    "status": "✔️ Fetched"
+  }
+]
